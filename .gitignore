@@ -1,9 +1,0 @@
-.gitignore
-build.ps1
-make_hash.py
-archive.py
-__pycache__
-.vscode
-.claude
-.luarc.json
-lua_definition
